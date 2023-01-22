@@ -601,9 +601,9 @@ YP_009725305.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	113	complete	nsp9
 YP_009725306.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	139	complete	nsp10	China	Homo sapiens	2019-12
 YP_009725307.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	932	complete	RNA-dependent RNA polymerase	China	Homo sapiens	2019-12
 YP_009725308.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	601	complete	helicase	China	Homo sapiens	2019-12
-YP_009725309.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	527	complete	3'-to-5' exonuclease	China	Homo sapiens	2019-12
-YP_009725310.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	346	complete	endoRNAse	China	Homo sapiens	2019-12
-YP_009725311.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	298	complete	2'-O-ribose methyltransferase	China	Homo sapiens	2019-12
+YP_009725309.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	527	complete	3-to-5 exonuclease	China	Homo sapiens	2019-12
+YP_009725310.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	346	complete	endoRNAse	Chine	Homo sapiens	2019-12
+YP_009725311.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	298	complete	2-O-ribose methyltransferase	China	Homo sapiens	2019-12
 YP_009725312.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	13	complete	nsp11	China	Homo sapiens	2019-12
 YP_009725255.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	38	complete	ORF10 protein	China	Homo sapiens	2019-12
 YP_009724389.1	SARS-CoV	Betacoronavirus	Coronaviridae	ssRNA(+)	7096	complete	ORF1ab polyprotein	China	Homo sapiens	2019-12
@@ -1914,15 +1914,15 @@ YP_003800005.1	Alphapolyomavirus octihominis	Alphapolyomavirus	Polyomaviridae	ds
 YP_003800006.1	Alphapolyomavirus octihominis	Alphapolyomavirus	Polyomaviridae	dsDNA	375	complete	structural protein VP1	Netherlands	Homo sapiens	2009-04
 YP_003800007.1	Alphapolyomavirus octihominis	Alphapolyomavirus	Polyomaviridae	dsDNA	697	complete	large T antigen	Netherlands	Homo sapiens	2009-04
 YP_003800008.1	Alphapolyomavirus octihominis	Alphapolyomavirus	Polyomaviridae	dsDNA	198	complete	small T antigen	Netherlands	Homo sapiens	2009-04
-YP_003815423.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	739	complete	nucleoprotein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815424.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	341	complete	polymerase complex protein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815425.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	326	complete	matrix protein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815426.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	676	complete	spike glycoprotein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815427.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	365	complete	small secreted glycoprotein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815428.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	302	complete	second secreted glycoprotein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815429.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	289	complete	minor nucleoprotein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815430.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	251	complete	membrane-associated protein	Cote d'Ivoire	Homo sapiens	1994-11
-YP_003815431.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	2210	complete	RNA-dependent RNA polymerase	Cote d'Ivoire	Homo sapiens	1994-11
+YP_003815423.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	739	complete	nucleoprotein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815424.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	341	complete	polymerase complex protein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815425.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	326	complete	matrix protein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815426.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	676	complete	spike glycoprotein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815427.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	365	complete	small secreted glycoprotein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815428.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	302	complete	second secreted glycoprotein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815429.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	289	complete	minor nucleoprotein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815430.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	251	complete	membrane-associated protein	Cote dIvoire	Homo sapiens	1994-11
+YP_003815431.1	Tai Forest ebolavirus	Ebolavirus	Filoviridae	ssRNA(-)	2210	complete	RNA-dependent RNA polymerase	Cote dIvoire	Homo sapiens	1994-11
 YP_003668025.1	Gammapapillomavirus 10	Gammapapillomavirus	Papillomaviridae	dsDNA	143	complete	transforming protein E6		Homo sapiens	
 YP_003668026.1	Gammapapillomavirus 10	Gammapapillomavirus	Papillomaviridae	dsDNA	98	complete	transforming protein E7		Homo sapiens	
 YP_003668027.1	Gammapapillomavirus 10	Gammapapillomavirus	Papillomaviridae	dsDNA	609	complete	replication protein E1		Homo sapiens	
